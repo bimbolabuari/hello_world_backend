@@ -1,25 +1,25 @@
-# README
+# Hello world backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a microverse exercise on backend api to show random greetings.
 
-Things you may want to cover:
+## Hello React Front End connection
+- [Frontend PR Project Link](https://github.com/bimbolabuari/hello_world_frontend/pull/1)
 
-* Ruby version
+- To get a local copy up and running follow these simple steps:
 
-* System dependencies
+      ```
+      rails db:seed
+      ```
 
-* Configuration
+      ```ruby
+      rails server
+      ```
 
-* Database creation
+## Author
+👤 **Abimbola Buari**
+- GitHub: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabauri)
+- LinkedIn: [bimbolabuari](https://www.linkedin.com/in/bimbolabuari/)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# hello_world_backend
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
